@@ -28,22 +28,6 @@ courier account
 email salikinsalimin@gmail.com
 password courier1234
 ```
-
-## Getting Started
-
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
-
-```bash
-# Clone this repository
-$ git clone https://github.com/StevieOdenPM/petly.git
-
-# Go into the repository
-$ cd petly
-
-# Go to file code
-$ code .
-```
-
 ## VS Code Terminal
 ```bash
 # Installing Packages and Dependencies
